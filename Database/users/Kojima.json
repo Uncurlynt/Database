@@ -1,0 +1,12 @@
+{
+	"Name": "Kojima",
+	"Age": 60,
+	"Contact": "7897989",
+	"Company": "Kojima prod.",
+	"Address": {
+		"City": "Tokyo",
+		"State": "Roppongi",
+		"Country": "Japan",
+		"Pincode": 1002211
+	}
+}

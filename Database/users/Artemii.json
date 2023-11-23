@@ -1,0 +1,12 @@
+{
+	"Name": "Artemii",
+	"Age": 25,
+	"Contact": "7999736",
+	"Company": "HomeBank",
+	"Address": {
+		"City": "Moscow",
+		"State": "Moscow",
+		"Country": "Russia",
+		"Pincode": 141777
+	}
+}

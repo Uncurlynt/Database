@@ -1,0 +1,12 @@
+{
+	"Name": "Rick",
+	"Age": 70,
+	"Contact": "2351235",
+	"Company": "???",
+	"Address": {
+		"City": "Seattle",
+		"State": "State of Washington",
+		"Country": "USA",
+		"Pincode": 999050
+	}
+}

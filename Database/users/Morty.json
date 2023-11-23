@@ -1,0 +1,12 @@
+{
+	"Name": "Morty",
+	"Age": 14,
+	"Contact": "142315",
+	"Company": "student",
+	"Address": {
+		"City": "Seattle",
+		"State": "State of Washington",
+		"Country": "USA",
+		"Pincode": 999050
+	}
+}
