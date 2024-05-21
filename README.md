@@ -16,8 +16,9 @@ This project implements a simple file-based database in Go, which stores data in
 To use this project, you need to have [Go](https://golang.org/dl/) installed.
 
 1. Clone the repository:
-   ```bash
+   ```
    git clone <your-repository-url>
    cd <your-repository-directory>
 2. Install dependencies:
+   ```
    go mod tidy
