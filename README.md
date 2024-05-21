@@ -1,7 +1,5 @@
 # Database
 
-# Simple JSON Database
-
 This project implements a simple file-based database in Go, which stores data in JSON format.
 
 ## Features
